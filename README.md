@@ -1,3 +1,16 @@
-# AttendEaze
-AttendEaze is an Attendance Management Mobile Application built using Flutter, seamlessly integrating Firebase and Firestore for efficient CRUD operations.  
-The admin can use all CRUD operations to maintain the attendance records of students while the student can only see their own attendance status.  This app simplifies attendance tracking and management, promising enhanced productivity and efficiency in practical settings.
+# firebase
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
